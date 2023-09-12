@@ -110,7 +110,7 @@ ul{
 /* Top banner */
 
 .top-banner{
-    background-image: url(assets/asset\ 30.png);
+    background-image: url(asset\ 30.png);
     background-color: #4fb3d4;
     background-size: 300px;
 }
@@ -196,7 +196,7 @@ header{
 
 .features-section{
     padding: 80px var(--padding-inline-section) 0;
-    background-image: url(./assets/asset\ 32.svg);
+    background-image: url(asset\ 32.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
